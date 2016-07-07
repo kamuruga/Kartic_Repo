@@ -10,5 +10,8 @@ public class Main {
 		System.out.println("HI All");
 		System.out.println("Good  Morning");
 		System.out.println("Variant Code");
+		System.out.println("fix case");
+		System.out.println("Loop Modify");
+
 	}
 }
