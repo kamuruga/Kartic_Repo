@@ -14,7 +14,7 @@ public class Main {
 		System.out.println("Loop Modify");
 		
 		/*
-		 * Modified by Kartic_Repo1
+		 * Modified by Kartic_Repo
 		 */
 
 	}
