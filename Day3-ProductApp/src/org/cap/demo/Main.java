@@ -8,6 +8,7 @@ public class Main {
 
 	private static void greetings() {
 		System.out.println("HI All");
-		
+		System.out.println("Good  Morning");
+		System.out.println("Variant Code");
 	}
 }
